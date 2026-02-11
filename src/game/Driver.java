@@ -62,7 +62,7 @@ public class Driver
 	//This variable is relative and will not be saved to a save file.
 	private static boolean foughtSkirmishOnce = false;
 
-	protected static String FileRoot = System.getProperty("user.dir") + File.separator + "Sigian Conflict" + File.separator + "Version 1.5" + File.separator;
+	protected static String FileRoot = System.getProperty("user.dir") + File.separator;
 	
 	/**
 	 * The Main Method runs and coordinates the game's main menu.
