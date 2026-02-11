@@ -2247,7 +2247,7 @@ public class Driver
 		stopMusic();
 		if(chapter == 0 || chapter == 1 || chapter == 7) 
 		{
-			swapMusic("FodlanWindsR", "FodlanWindsT");
+			playMusic("FodlanWindsR", true);
 		}
 		else 
 		{
